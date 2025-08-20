@@ -1,3 +1,8 @@
+Link the whitelist https://sepolia.etherscan.io/address/0x5Ff914d7BC2b17743C5c9D6379a36a910BE592Ed
+Link to NFT collection https://sepolia.etherscan.io/address/0xAcE8AFE234cF973b5b388323B3085a6a47c242BF
+
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
